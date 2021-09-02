@@ -1,2 +1,2 @@
 # manual-testing
-Folder zawiera projekty testów manualnych przeprowadzone na różnych środowiskach testowych.
+This repository contains my manual tests in different environments.
